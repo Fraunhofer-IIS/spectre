@@ -1,6 +1,10 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13941490.svg)](https://doi.org/10.5281/zenodo.13941490)
+
+
 # SPECTRE Dataset
 
 This repository contains the dataset and code for the paper "SPECTRE: A Dataset for Spectral Reconstruction on Chip-Size Spectrometers With a Physics-Informed Augmentation Method".
+You can find all data files in the [Zenodo repository](https://zenodo.org/records/13941490)
 
 
 ## License
