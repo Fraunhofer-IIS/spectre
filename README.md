@@ -6,11 +6,6 @@
 This repository contains the dataset and code for the paper "SPECTRE: A Dataset for Spectral Reconstruction on Chip-Size Spectrometers With a Physics-Informed Augmentation Method".
 You can find all data files in the [Zenodo repository](https://zenodo.org/records/13941490)
 
-
-## License
-- The dataset is available under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License.
-- The code is available under the Software Copyright License for Academic Use of the Fraunhofer Software, Version 1.0.
-
 ## Contents
 - `examples/`: Contains examples on how to use the dataset.
 - `src/`: Contains the python files of the spectre module.
@@ -32,7 +27,11 @@ You can find all data files in the [Zenodo repository](https://zenodo.org/record
    ```bash
    python examples/read_data.py
    ```
-
+   
+## License
+- The dataset is available under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License.
+- The code is available under the Software Copyright License for Academic Use of the Fraunhofer Software, Version 1.0.
+  
 ## Citation
 If you use this dataset or code in your work, please cite the corresponding paper:
 
