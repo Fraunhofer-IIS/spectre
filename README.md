@@ -1,5 +1,4 @@
-[![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff) [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/release/python-311/) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13941490.svg)](https://doi.org/10.5281/zenodo.13941490)
-
+[![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff) [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/release/python-311/) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13941490.svg)](https://doi.org/10.5281/zenodo.13941490) [![DOI:10.1101/2021.01.08.425840](http://img.shields.io/badge/DOI-10.1101/2021.01.08.425840-B31B1B.svg)](https://doi.org/10.1109/SENSORS60989.2024.10784898)
 
 # SPECTRE Dataset
 
@@ -37,16 +36,20 @@ If you use this dataset or code in your work, please cite the corresponding pape
 
 **SPECTRE: A Dataset for Spectral Reconstruction on Chip-Size Spectrometers With a Physics-Informed Augmentation Method**
 
-To be published in: Proceedings of IEEE Sensors 2024. Once the paper is online a link to it and the DOI will be added to the bibtex entry
-
+Available in the Proceedings of IEEE Sensors 2024. You can access the paper via [IEEE Xplore](https://doi.org/10.1109/SENSORS60989.2024.10784898)
 
 BibTeX entry:
 
 ```bibtex
-@article{spectre,
-  title={SPECTRE: A Dataset for Spectral Reconstruction on Chip-Size Spectrometers With a Physics-Informed Augmentation Method},
-  author={Julio Wissing, Teresa Scholz, Stefan Saloman, Lidia Fargueta, Stephan Junger, Alessio Stefani, Wladimir Tschekalinskij, Stephan Scheele3, Ute Schmid},
-  journal={IEEE Sensors 2024},
+@INPROCEEDINGS{10784898,
+  author={Wissing, Julio and Scholz, Teresa and Saloman, Stefan and Fargueta, Lidia and Junger, Stephan and Stefani, Alessio and Tschekalinskij, Wladimir and Scheele, Stephan and Schmid, Ute},
+  booktitle={2024 IEEE SENSORS}, 
+  title={SPECTRE: A Dataset for Spectral Reconstruction on Chip-Size Spectrometers with a Physics-Informed Augmentation Method}, 
   year={2024},
-}
+  volume={},
+  number={},
+  pages={1-4},
+  keywords={Optical filters;Training;Neural networks;Reconstruction algorithms;Benchmark testing;Data augmentation;Optical sensors;Intelligent sensors;Optical arrays;Optical Sensors;Machine Learning;Artificial Intelligence;Spectral Reconstruction;Data Augmentation},
+  doi={10.1109/SENSORS60989.2024.10784898}}
+
 ```
